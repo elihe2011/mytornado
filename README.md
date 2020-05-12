@@ -1,2 +1,2 @@
 # mytornado
-Intergerity Tornado with SQLAlchemy
+Integrated Tornado with SQLAlchemy
